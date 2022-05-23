@@ -456,26 +456,5 @@
                 }
             }
         }
-    ],
-    metadata: [
-        {
-            tag: "meta",
-            tagName: "description",
-            content: "HomePage description from static json"
-        },
-        {
-            tag: "og",
-            property: "og:description",
-            content: "OPEN GRAPH HomePage description from static json"
-        },
-        {
-            tag: "title",
-            content: "B2B COMMERCE TITLE"
-        },
-        {
-            tag: "link",
-            rel: "manifest",
-            href: "/assets/img/favicon/site.webmanifest"
-        }
     ]
 };
