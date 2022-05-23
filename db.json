@@ -1,14 +1,5 @@
 {
-    components: [
-        {
-            id: 1,
+    id: 1,
             blockName: "header Slider",
             type: "Slider"
-        },
-        {
-            id: 2,
-            blockName: "header Slider",
-            type: "Sliderr"
-        },
-    ]
 }
