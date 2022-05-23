@@ -4,52 +4,6 @@
             id: 1,
             blockName: "header Slider",
             type: "Slider",
-            data: {
-                slides: [
-                    {
-                        image: {
-                            src: "/assets/img/product/slide-2.jpg",
-                            alt: "men"
-                        },
-                        content: {
-                            title: "Aνακαλυψτε τη νεα μας κολεξιον",
-                            paragraph: "Αναζωογονητική και δυναμική νέα καμπάνια. Μια προσωπική δήλωση που είναι εμπνευσμένη από ανθρώπους και urban style.",
-                            link: {
-                                label: "ΑΝΑΚΑΛΥΨΤΕ ΤΗ ΤΩΡΑ!",
-                                url: "/catalog/c/19_38/endusi_or_upodusi"
-                            }
-                        }
-                    },
-                    {
-                        image: {
-                            src: "/assets/img/product/slide-1.jpg",
-                            alt: "women"
-                        },
-                        content: {
-                            title: "Aνακαλυψτε τη νεα μας κολεξιον",
-                            paragraph: "Αναζωογονητική και δυναμική νέα καμπάνια. Μια προσωπική δήλωση που είναι εμπνευσμένη από ανθρώπους και urban style.",
-                            link: {
-                                label: "ΑΝΑΚΑΛΥΨΤΕ ΤΗ ΤΩΡΑ!",
-                                url: "/catalog?phrase=γυναικα"
-                            }
-                        }
-                    },
-                    {
-                        image: {
-                            src: "/assets/img/product/slide-3.jpg",
-                            alt: "kids"
-                        },
-                        content: {
-                            title: "Aνακαλυψτε τη νεα μας κολεξιον",
-                            paragraph: "Αναζωογονητική και δυναμική νέα καμπάνια. Μια προσωπική δήλωση που είναι εμπνευσμένη από ανθρώπους και urban style.",
-                            link: {
-                                label: "ΑΝΑΚΑΛΥΨΤΕ ΤΗ ΤΩΡΑ!",
-                                url: "/catalog/c/134/magiw"
-                            }
-                        }
-                    }
-                ]
-            }
         }
     ]
 };
